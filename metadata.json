@@ -1,7 +1,24 @@
 {
-  "name": "PaxNodes",
-  "website": "https://github.com/PaxNode",
-  "description": "PaxNodes not Nudes.",
+  "operator_name": "PaxNodes",
+  "operator_address": "0xC18D4506E404d887a076C07586639A42f9629267",
+  "earnings_receiver_address": "0x269D8dd68a4DD811dBC58B979c4B5B9D9Ca7Aa57",
   "logo": "https://raw.githubusercontent.com/paxnode/AVS-ChainBase/main/PaxNodes.png",
-  "twitter": "https://twitter.com/PaxNode"
+  "website": "https://PaxNodes.xyz",
+  "contact_email": "",
+  "description": "ChainBase AVS Operator",
+  "social_media": {
+    "twitter": "https://x.com/PaxNode",
+    "discord": "https://discord.gg/PaxNode"
+  },
+  "network": {
+    "name": "ChainBase",
+    "chain_id": 17000,
+    "rpc_url": "https://ethereum-holesky-rpc.publicnode.com"
+  },
+  "team_members": [
+    {
+      "name": "Pax",
+      "role": "Founder of PaxNodes"
+    }
+  ]
 }
