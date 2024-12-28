@@ -15,6 +15,7 @@
     "chain_id": 17000,
     "rpc_url": "https://ethereum-holesky-rpc.publicnode.com"
   },
+  "metadata_url": "https://raw.githubusercontent.com/paxnode/AVS-ChainBase/main/metadata.json",
   "team_members": [
     {
       "name": "Pax",
